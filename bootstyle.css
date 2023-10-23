@@ -1,0 +1,22 @@
+.container-fluid {
+    margin: 5px 10px 20px;
+}
+
+.container text-center {
+    
+}
+
+.card-body {
+
+    border-radius: 6px;
+    border: 1px solid #7DD6A6;
+}
+
+.alinhamento {
+    align-items: center;
+    gap: 0px;
+}
+
+body{
+    background-color: #E1F8E7 !important;
+}
